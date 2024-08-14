@@ -1,0 +1,49 @@
+﻿  ProjectPhase2.cpp
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(8,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(16,22): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(16,49): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(54,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(63,34): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(70,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(96,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(112,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(117,43): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(121,45): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(134,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(139,55): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(143,57): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(164,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(179,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(196,32): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(209,24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(216,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(223,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(292,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(292,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(294,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(523,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(547,38): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(558,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(585,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(585,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(601,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(606,47): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(610,49): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(647,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(653,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(677,33): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(746,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(754,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(808,34): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(1112,29): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(1112,16): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(1117,36): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(1117,23): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(1191,48): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(1191,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(385): warning C4715: 'Character::eitherpermission': not all control paths return a value
+C:\Users\fahad\Downloads\ProjectPhase2\ProjectPhase2.cpp(476): warning C4715: 'Enemy::eitherpermission': not all control paths return a value
+  ProjectPhase2.vcxproj -> C:\Users\fahad\Downloads\ProjectPhase2\x64\Debug\ProjectPhase2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

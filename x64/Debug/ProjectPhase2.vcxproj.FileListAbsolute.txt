@@ -1,0 +1,6 @@
+X:\raylib\ProjectPhase2\x64\Debug\ProjectPhase2.vcxproj.CopyComplete
+X:\raylib\ProjectPhase2\x64\Debug\ProjectPhase2.exe
+X:\raylib\ProjectPhase2\x64\Debug\raylib.dll
+C:\Users\fahad\Downloads\ProjectPhase2\x64\Debug\ProjectPhase2.vcxproj.CopyComplete
+C:\Users\fahad\Downloads\ProjectPhase2\x64\Debug\ProjectPhase2.exe
+C:\Users\fahad\Downloads\ProjectPhase2\x64\Debug\raylib.dll
